@@ -26,3 +26,5 @@ El pipeline típico incluye:
    - Conteo de células.
    - Porcentaje de positivas.
    - Visualización de la imagen con overlay de colores por célula.
+  
+El ejecutable de la solución se encuentra disponible en: https://drive.google.com/drive/folders/1AlxHJimMOf9LIeczlRkPZTtdodOynzSU?usp=sharing
