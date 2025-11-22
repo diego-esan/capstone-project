@@ -1,4 +1,4 @@
-# capstone-project
+# Capstone Project
 Este repositorio contiene un modelo de **identificación y separación de células positivas y negativas** en imágenes de microscopía, utilizando técnicas de Visión por Computador y Deep Learning.
 
 El objetivo es ofrecer un pipeline reproducible que permita:
