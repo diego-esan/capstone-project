@@ -1,1 +1,1 @@
-# Código de la aplicación
+# CÃ³digo de la aplicaciÃ³n
